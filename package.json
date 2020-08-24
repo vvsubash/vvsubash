@@ -1,0 +1,16 @@
+{
+  "name": "vvsubash",
+  "version": "0.0.1-alpha",
+  "description": "my personal site",
+  "main": "index.js",
+  "repository": "https://github.com/vvsubash/vvsubash",
+  "author": "vvsubash <subash.venkat007@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+ ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
